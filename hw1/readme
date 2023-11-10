@@ -1,0 +1,10 @@
+To run :
+python optimal_hyperparameters.py
+
+It will do grid search on the given variations for each hyperparameter.
+while doing so it will print to the terminal the validation accuracy and confidence interval for each possible combination.
+
+Lastly it will print the test result by using the test data on the best combination that we found. Mean test accuracy and confidence interval 
+will be printed.
+
+To illustrate how learning rate affects the accuracy of the model. It will plot a graph that shows how the accuracy changes for each learning rate.
