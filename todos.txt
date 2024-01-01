@@ -1,0 +1,6 @@
+1-)
+Solving simple arithmetic operations using a sequence-to-sequence encoder-decoder model.
+Implement a calculator using LSTM
+
+2-) 
+Implement a vision transfor for CIFAR-10 dataset
